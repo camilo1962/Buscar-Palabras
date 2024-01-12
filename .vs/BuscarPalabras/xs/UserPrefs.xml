@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{A95AB3ED-94B4-0BBB-BC84-4C52FCF9C61B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Game.cs">
+    <Files>
+      <File FileName="Assets/dicionary.json" />
+      <File FileName="Assets/Dictionary.txt" />
+      <File FileName="Assets/Scripts/Menu.cs" />
+      <File FileName="Assets/Scripts/LoadGame.cs" />
+      <File FileName="Assets/Scripts/Score.cs" Line="73" Column="11" />
+      <File FileName="Assets/Scripts/BackHome.cs" />
+      <File FileName="Assets/Scripts/Game.cs" Line="28" Column="43" />
+      <File FileName="Assets/Scripts/Timer.cs" />
+      <File FileName="Assets/Scripts/web.cs" />
+      <File FileName="Assets/Scripts/Solver.cs" />
+      <File FileName="Assets/Scripts/LeaderboardManager.cs" />
+      <File FileName="Assets/Scripts/AgregarPlalabra.cs" />
+      <File FileName="Assets/Scripts/GuardaPalabra.cs" />
+      <File FileName="Assets/Scripts/SistemaEscritura.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0fda70d1-74cc-4b80-9554-3ae7717624ef" />
+  <MultiItemStartupConfigurations />
+</Properties>
